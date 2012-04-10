@@ -1,3 +1,8 @@
+
+
+body {background-color : grey; }
+
+
 #container
 {
 	margin: 0 30px;
@@ -6,8 +11,8 @@
 
 #header
 {
-	background: #ccc;
-	padding: 20px;
+	background: orange;
+	padding: 30px;
 }
 
 #header h1 { margin: 0; }
@@ -16,7 +21,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: pink;
 }
 
 #navigation ul
@@ -36,7 +41,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: orange;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -62,14 +67,14 @@
 
 #edito h2
 {
-	color: #000;
+	color: purple;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
 
 #news
 {	
-	float: left;
+	float: right;
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
@@ -88,7 +93,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: grey;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
